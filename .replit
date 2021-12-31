@@ -1,2 +1,3 @@
 language = "python3"
-run = "python 3-big-o/main.py"
+
+run = "python 3-big-o/O-n/main.py"
